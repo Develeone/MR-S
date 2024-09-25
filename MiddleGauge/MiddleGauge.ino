@@ -2,7 +2,7 @@
 #include <TFT_eSPI.h> // Подключаем библиотеку TFT_eSPI
 TFT_eSPI tft; // Создаем объект для работы с дисплеем
 
-//  
+// TOUCH
 #define TOUCH_IRQ 36
 #define TOUCH_MOSI 32
 #define TOUCH_MISO 39
